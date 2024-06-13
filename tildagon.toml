@@ -22,21 +22,19 @@ category = "Media"
 
 [metadata]
 # Your nickname.  Must be at most 32 characters!
-author = "RSPCRat7287"
+author = "chaos & Ben Eriksson"
 
 # License of your app as an SPDX identifier: <https://spdx.org/licenses/>
-license = "LGPL-3.0-only"
+license = "MIT"
 
 # URL to the repository of your app.
 url = "https://www.github.com/npentrel/tildagon-snake"
 
 # Description of your app.  Maximum 140 characters!
-description = "Play snake on your tildagon badge."
+description = "Control the Fluroclock at EMF, from your badge!"
 
 # Version number of your app.  If you push a commit where this number is
 # increased, we interpret this as a new version being released.
 #
 # Version number must be an integer!
-version = "0.0.1"
-
-
+version = "0.0.2"
