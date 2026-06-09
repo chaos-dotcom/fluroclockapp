@@ -22,7 +22,7 @@ category = "Apps"
 
 [metadata]
 # Your nickname.  Must be at most 32 characters!
-author = "chaos & Ben Eriksson"
+author = "Chaos & Ben Eriksson"
 
 # License of your app as an SPDX identifier: <https://spdx.org/licenses/>
 license = "MIT"
